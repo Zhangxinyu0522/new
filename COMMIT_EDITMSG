@@ -1,0 +1,3 @@
+fix(deploy): 将 app 包经 included_files 打进 Netlify 函数，确保 FastAPI 可加载
+
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
